@@ -1,1 +1,4 @@
 //! lib
+
+pub mod primes;
+
